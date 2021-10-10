@@ -31,4 +31,4 @@ This project was created to update site accessibility to meet current standards,
 </p>
 
 <b>Links:</b>
-<a href="https://magfinn.github.io/Refactor-for-Horiseon-Home-Page/"> View project on Github</a>
+<a href="https://magfinn.github.io/Refactor-for-Horiseon-Home-Page/"> View project URL</a>
