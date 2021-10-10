@@ -92,7 +92,6 @@ header p {
 .content img {
     max-height: 200px;
 }
-
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -101,11 +100,8 @@ header p {
 
 /* Benefits Section Style */
 .benefits {
-    width: 20%;
-    display: inline-block;
-    position: relative;
     margin-right: 20px;
-    padding: 10px;
+    padding: 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -132,3 +128,16 @@ header p {
 }
 
 /* End Benefits*/
+
+/* Footer Design */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+/* End Footer Design */
