@@ -75,26 +75,24 @@ header p {
     margin-left: 25px;
     max-height: 200px;
 }
-
 .content {
     width: 75%;
-    height: 100%;
-    display: in-line block;
-    position: absolute;
+    display: inline-block;
     margin-left: 20px;
-    padding: 10px;
 }
-
-.content-box{
-    box-sizing: content-box;
+.content-box {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    position: absolute;
 }
+
+.content img {
+    max-height: 200px;
+}
+
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
