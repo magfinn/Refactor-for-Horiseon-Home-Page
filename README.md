@@ -1,9 +1,10 @@
 <b>Refactoring CSS and HTML code on Horiseon homepage for increased accessibility.</b>
 
-<b><u>Description:</b></u>
+<b>Description:</b>
 This project was created to update site accessibility to meet current standards, increase search-engine optimization for the site, ensure readability and functioning features for the user, and to increase efficiency in the HTML and CSS code. 
 
 <i>1. Make the code more accessible for readers with disabilities.</i> 
+
     * Added accessible alt attributes to all images and icons. This allows assistive technologies to describe images and icons.
 
     * Replaced custom class-defined elements with standard HTML elements such as header, footer, section, and navigation. This allows the computer to better relay information through assistive technologies.
@@ -24,10 +25,10 @@ This project was created to update site accessibility to meet current standards,
 
     * Fixed an error in the navigation section by linking class id of main content sections to navigation headings. When you click on a list item in the navigation heading (Search Engine Optiization, Online Reputation Management, or Social Media Marketing) the page now scrolls to the corresponding section on the screen.  
 
-<b><u>Screenshot Preview:</b></u>
+<b>Screenshot Preview:</b>
 <p>
 <img src="./assets/images/Screenshot_full_page.png"/>
 </p>
 
-<b><u>Links:</b></u>
+<b>Links:</b>
 <a href="https://magfinn.github.io/Refactor-for-Horiseon-Home-Page/"> View project on Github</a>
